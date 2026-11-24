@@ -1,8 +1,8 @@
 # Say What Actually Broke
 
-[![make.fun](https://make.fun/bounty/u-po-pu-say-what-actually-broke-a2c153b5/badge.svg)](https://make.fun/bounty/u-po-pu-say-what-actually-broke-a2c153b5)
-[![rank](https://make.fun/bounty/u-po-pu-say-what-actually-broke-a2c153b5/rank.svg)](https://make.fun/bounty/u-po-pu-say-what-actually-broke-a2c153b5)
-[![reward](https://make.fun/bounty/u-po-pu-say-what-actually-broke-a2c153b5/reward.svg)](https://make.fun/bounty/u-po-pu-say-what-actually-broke-a2c153b5)
+[![make.fun · u-po-pu-say-what-actually-broke-a2c153b5](https://make.fun/badge/u-po-pu-say-what-actually-broke-a2c153b5.svg)](https://make.fun/bounty/u-po-pu-say-what-actually-broke-a2c153b5?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-say-what-actually-broke-a2c153b5)
+[![rank](https://make.fun/badge/u-po-pu-say-what-actually-broke-a2c153b5/aahcoba8-maker/makefun-say-what-broke-20261124/rank.svg)](https://make.fun/bounty/u-po-pu-say-what-actually-broke-a2c153b5/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-say-what-actually-broke-a2c153b5)
+[![reward](https://make.fun/badge/u-po-pu-say-what-actually-broke-a2c153b5/aahcoba8-maker/makefun-say-what-broke-20261124/reward.svg)](https://make.fun/bounty/u-po-pu-say-what-actually-broke-a2c153b5?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-say-what-actually-broke-a2c153b5)
 
 Entry for the [make.fun bounty "Say What Actually Broke"](https://make.fun/bounty/u-po-pu-say-what-actually-broke-a2c153b5): one line of software error copy (at most 200 characters) that tells the user the brutal truth about what went wrong — and makes them laugh on the way.
 
